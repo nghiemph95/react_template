@@ -51,3 +51,6 @@ Sau khi tạo component mới, **import vào `App.tsx`** và render để xem k�
 | [14-accordion-collapse.md](./14-accordion-collapse.md) | Accordion: mở/đóng từng section, một mở tại một thời điểm |
 | [15-star-rating.md](./15-star-rating.md) | Star rating: click + hover, controlled component |
 | [16-rick-morty-character-gallery.md](./16-rick-morty-character-gallery.md) | Rick and Morty API: gallery grid, infinite scroll, detail view (live coding) |
+| [19-error-boundary.md](./19-error-boundary.md) | Error Boundary: class component, getDerivedStateFromError, fallback UI |
+| [20-react-router.md](./20-react-router.md) | React Router: Routes, useParams, useNavigate, Link, list/detail URL |
+| [21-lazy-suspense.md](./21-lazy-suspense.md) | React.lazy + Suspense: code splitting, fallback |
